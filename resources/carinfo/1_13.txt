@@ -1,0 +1,78 @@
+﻿proid		0
+pro_category	10,4688	0
+search_cate		0
+publish_title		1001
+old_publish_title		0
+4688[105716][one]	178873_olopekam_其他	0
+4688[105716][other]		1
+radio_val	178873_olopekam_其他	0
+4688_105716	105716,品牌,	0
+4688[11408]		2
+4688_11408	11408,型号,	0
+4688[11406][one]	232609_olopekam_其他	0
+4688[11406][other]		22
+radio_val	232609_olopekam_其他	0
+4688_11406	11406,类型,	0
+4688[161897][one]	252333_olopekam_其他	0
+4688[161897][other]		45
+radio_val	252333_olopekam_其他	0
+4688_161897	161897,伸展结构,	0
+4688[105649]		50
+4688_105649	105649,工作斗最大作业高度,m	0
+4688[105743]		0
+4688_105743	105743,工作斗最大作业幅度,m	0
+4688[105670]		46
+4688_105670	105670,工作斗额定载荷,kg	0
+4688[105665]		51
+4688_105665	105665,回转速度,r/min	0
+4688[105672]		47
+4688_105672	105672,起重臂长,m	0
+4688[105684]		48
+4688_105684	105684,吊钩臂最大起重量,kg	0
+4688[105769]		50
+4688_105769	105769,最大起重高度,m	0
+4688[105691]		6
+4688_105691	105691,底盘型号,	0
+4688[105697]		8
+4688_105697	105697,发动机功率,kw	0
+4688[105710]		11
+4688_105710	105710,最大行驶速度,km/h	0
+4688[105711]		0
+4688_105711	105711,满载质量,kg	0
+4688[105715]		0
+4688_105715	105715,乘员人数,	0
+4688[105787]		49
+4688_105787	105787,支腿跨距,mm	0
+4688[105772]		12
+4688_105772	105772,外型尺寸,mm	0
+4688[11410]		15
+4688_11410	11410,重量,kg	0
+paramname[]	参数名	0
+paramval[]	参数值	0
+xyz	66e5df778028012010d9eadcff592b16	0
+image_1_id		1005
+image_2_id		1006
+image_3_id		1007
+image_4_id		1008
+corpname_encode		0
+corp_id		-1
+img_queue_domain	queue.img.makepolo.com	0
+content		1004
+title		1002
+five_cate	4724	0
+first_cat	0	0
+unit_price		1003
+price_unit	14	0
+price_unit_name	件	0
+min_purchase_type	0	0
+purchase_num		0
+market_price		0
+s_weight		0
+stock_state	0	0
+stock_num		0
+stock_num1		0
+promotional_posters		0
+tongyi		0
+integrity	71	0
+source		0
+pagetype	add	0

@@ -1,0 +1,79 @@
+﻿proid		0
+pro_category	9,150395	0
+search_cate		0
+publish_title		1001
+old_publish_title		0
+150395[63369][one]	232426_olopekam_其他	0
+150395[63369][other]		1
+radio_val	232426_olopekam_其他	0
+150395_63369	63369,品牌,	0
+150395[63370]		2
+150395_63370	63370,型号,	0
+150395[58681][one]	232248_olopekam_其他	0
+150395[58681][other]		0
+radio_val	232248_olopekam_其他	0
+150395_58681	58681,底盘型式,	0
+150395[58682][one]	232249_olopekam_其他	0
+150395[58682][other]		0
+radio_val	232249_olopekam_其他	0
+150395_58682	58682,回转方式,	0
+150395[58683][one]	232250_olopekam_其他	0
+150395[58683][other]		0
+radio_val	232250_olopekam_其他	0
+150395_58683	58683,臂架型式,	0
+150395[58684][one]	232257_olopekam_其他	0
+150395[58684][other]		0
+radio_val	232257_olopekam_其他	0
+150395_58684	58684,使用场合,	0
+150395[63657]		0
+150395_63657	63657,最大起升质量,kg	0
+150395[63658]		0
+150395_63658	63658,最大起重力矩,N.m	0
+150395[63659]		0
+150395_63659	63659,推荐功率,kw	0
+150395[63660]		0
+150395_63660	63660,液压系统推荐流量,L/min	0
+150395[63661]		0
+150395_63661	63661,液压系统额定压力,Mpa	0
+150395[63662]		0
+150395_63662	63662,油箱容积,L	0
+150395[63663]		0
+150395_63663	63663,回转角度,°	0
+150395[63665]		0
+150395_63665	63665,安装空间,mm	0
+150395[64951][one]	98449_olopekam_否	0
+radio_val	98449_olopekam_否	0
+150395_64951	64951,加工定制,	0
+150395[64952]		12
+150395_64952	64952,外形尺寸,mm	0
+150395[63664]		15
+150395_63664	63664,自身重量,t	0
+paramname[]	参数名	0
+paramval[]	参数值	0
+xyz	66e5df778028012010d9eadcff592b16	0
+image_1_id		1005
+image_2_id		1006
+image_3_id		1007
+image_4_id		1008
+corpname_encode		0
+corp_id		-1
+img_queue_domain	queue.img.makepolo.com	0
+content		1004
+title		1002
+five_cate	4724	0
+first_cat	0	0
+unit_price		1003
+price_unit	14	0
+price_unit_name	件	0
+min_purchase_type	0	0
+purchase_num		0
+market_price		0
+s_weight		0
+stock_state	0	0
+stock_num		0
+stock_num1		0
+promotional_posters		0
+tongyi		0
+integrity	71	0
+source		0
+pagetype	add	0

@@ -1,0 +1,86 @@
+proid		0
+pro_category	10,4723	0
+search_cate		0
+publish_title		1001
+old_publish_title		0
+4723[11522][one]	303214_olopekam_其他	0
+4723[11522][other]		1
+radio_val	303214_olopekam_其他	0
+4723_11522	11522,品牌,	0
+4723[11523]		2
+4723_11523	11523,型号,	0
+4723[11521][one]	246142_olopekam_其他	0
+4723[11521][other]		22
+radio_val	246142_olopekam_其他	0
+4723_11521	11521,类型,	0
+4723[154298][one]	243129_olopekam_其他	0
+4723[154298][other]		5
+radio_val	243129_olopekam_其他	0
+4723_154298	154298,排量,L	0
+4723[154293][one]	243115_olopekam_其他	0
+4723[154293][other]		38
+radio_val	243115_olopekam_其他	0
+4723_154293	154293,乘员/座位数,	0
+4723[154294][one]	243153_olopekam_其他	0
+4723[154294][other]		3
+radio_val	243153_olopekam_其他	0
+4723_154294	154294,燃油种类,	0
+4723[154290]		6
+4723_154290	154290,底盘型号,	0
+4723[154291]		4
+4723_154291	154291,发动机型号,	0
+4723[154292]		9
+4723_154292	154292,额定装载质量,Kg	0
+4723[154295]		13
+4723_154295	154295,百公里耗油量,L	0
+4723[154296]		8
+4723_154296	154296,额定功率,KW	0
+4723[154297]		11
+4723_154297	154297,最高车速,Km/h	0
+4723[154306]		0
+4723_154306	154306,轮胎规格,	0
+4723[154307]		0
+4723_154307	154307,轮胎数,	0
+4723[154308]		7
+4723_154308	154308,排放标准,	0
+4723[154309]		0
+4723_154309	154309,驱动方式,	0
+4723[154311]		10
+4723_154311	154311,轴距,mm	0
+4723[154312]		0
+4723_154312	154312,轴数,	0
+4723[154314]		0
+4723_154314	154314,最大扭矩,nm	0
+4723[11524]		12
+4723_11524	11524,外形尺寸,mm	0
+4723[154310]		15
+4723_154310	154310,整备质量,kg	0
+paramname[]	参数名	0
+paramval[]	参数值	0
+xyz		0
+image_1_id	1005
+image_2_id	1006
+image_3_id	1007
+image_4_id	1008
+corpname_encode		0
+corp_id		-1
+img_queue_domain	queue.img.makepolo.com	0
+content		1004
+title		1002
+five_cate	4724	0
+first_cat	0	0
+unit_price		1003
+price_unit	14	0
+price_unit_name	件	0
+min_purchase_type	0	0
+purchase_num		0
+market_price		0
+s_weight		0
+stock_state	0	0
+stock_num		0
+stock_num1		0
+promotional_posters		0
+tongyi		0
+integrity	71	0
+source		0
+pagetype	add	0

@@ -1,0 +1,74 @@
+proid		0
+pro_category	10,4719	0
+search_cate		0
+publish_title		1001
+old_publish_title		0
+4719[11502][one]	303166_olopekam_其他	0
+4719[11502][other]		1
+radio_val	303166_olopekam_其他	0
+4719_11502	11502,品牌,	0
+4719[11503]		2
+4719_11503	11503,型号,	0
+4719[154218][one]	242974_olopekam_其他	0
+4719[154218][other]		0
+radio_val	242974_olopekam_其他	0
+4719_154218	154218,清扫方式,	0
+4719[162105][one]	252762_olopekam_其他	0
+4719[162105][other]		0
+radio_val	252762_olopekam_其他	0
+4719_162105	162105,行走方式,	0
+4719[162106][one]	252768_olopekam_其他	0
+4719[162106][other]		52
+radio_val	252768_olopekam_其他	0
+4719_162106	162106,除尘方式,	0
+4719[25074]		53
+4719_25074	25074,清扫宽度,m	0
+4719[154217]		4
+4719_154217	154217,发动机型号,	0
+4719[154210]		0
+4719_154210	154210,驱动马力,W	0
+4719[25076]		54
+4719_25076	25076,最大工作效率,m2/h	0
+4719[25075]		55
+4719_25075	25075,尘箱容积,L	0
+4719[154216]		56
+4719_154216	154216,前进速度,Km/h	0
+4719[154211]		57
+4719_154211	154211,过滤面积,m2	0
+4719[154212]		58
+4719_154212	154212,连续工作时间,h	0
+4719[154209]		59
+4719_154209	154209,边刷直径,mm	0
+4719[154215]		60
+4719_154215	154215,主刷长度,mm	0
+4719[157733]		15
+4719_157733	157733,整备质量,kg	0
+paramname[]	参数名	0
+paramval[]	参数值	0
+xyz		0
+image_1_id		1005
+image_2_id		1006
+image_3_id		1007
+image_4_id		1008
+corpname_encode		0
+corp_id			-1
+img_queue_domain	queue.img.makepolo.com	0
+content		1004
+title		1002
+five_cate	4724	0
+first_cat	0	0
+unit_price		1003
+price_unit	14	0
+price_unit_name	件	0
+min_purchase_type		0
+purchase_num		0
+market_price		0
+s_weight		0
+stock_state	0	0
+stock_num		0
+stock_num1		0
+promotional_posters		0
+tongyi		0
+integrity	71	0
+source		0
+pagetype	add	0
